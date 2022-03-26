@@ -185,7 +185,7 @@ body {
     }
 
     .btn {
-        display: none;
+        display: flex;
         align-items: center;
         text-align: center;
         justify-content: center;
@@ -244,4 +244,8 @@ body {
     color: white;
     align-items: center;
     text-align: center;
+}
+
+#desktopDownload{
+    position: relative;
 }

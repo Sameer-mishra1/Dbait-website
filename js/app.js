@@ -2,7 +2,7 @@ gsap.registerPlugin(ScrollTrigger)
 
 LottieScrollTrigger({
 	target: "#animation",
-	path: "https://assets3.lottiefiles.com/packages/lf20_8lwqxf4a.json",
+	path: "https://assets10.lottiefiles.com/packages/lf20_hsgjxstb.json",
 	speed: "slow",
 	scrub: 2, // seconds it takes for the playhead to "catch up"
 	// you can also add ANY ScrollTrigger values here too, like trigger, start, end, onEnter, onLeave, onUpdate, etc. See https://greensock.com/docs/v3/Plugins/ScrollTrigger
@@ -13,7 +13,7 @@ LottieScrollTrigger({
 
 LottieScrollTrigger({
 	target: "#desktopAnimation",
-	path: "assets/desktop2.json",
+	path: "https://assets6.lottiefiles.com/packages/lf20_fjvf0qx7.json",
 	speed: "slow",
 	scrub: 2, // seconds it takes for the playhead to "catch up"
 	// you can also add ANY ScrollTrigger values here too, like trigger, start, end, onEnter, onLeave, onUpdate, etc. See https://greensock.com/docs/v3/Plugins/ScrollTrigger
