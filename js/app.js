@@ -1,5 +1,7 @@
 gsap.registerPlugin(ScrollTrigger)
 
+
+// Mobile animation 
 LottieScrollTrigger({
 	target: "#animation",
 	path: "https://assets10.lottiefiles.com/packages/lf20_hsgjxstb.json",
@@ -11,9 +13,10 @@ LottieScrollTrigger({
 	}
 });
 
+// Desktop Animation
 LottieScrollTrigger({
 	target: "#desktopAnimation",
-	path: "https://assets6.lottiefiles.com/packages/lf20_fjvf0qx7.json",
+	path: "https://assets3.lottiefiles.com/packages/lf20_3jdtjehp.json",
 	speed: "slow",
 	scrub: 2, // seconds it takes for the playhead to "catch up"
 	// you can also add ANY ScrollTrigger values here too, like trigger, start, end, onEnter, onLeave, onUpdate, etc. See https://greensock.com/docs/v3/Plugins/ScrollTrigger
