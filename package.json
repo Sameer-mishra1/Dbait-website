@@ -1,0 +1,20 @@
+{
+  "name": "dbait-website",
+  "version": "1.0.0",
+  "description": "Server to test Dashboard endpoint",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Sameer-mishra1@github.com/Sameer-mishra1/Dbait-website.git"
+  },
+  "author": "Sameer Mishra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sameer-mishra1/Dbait-website/issues"
+  },
+  "homepage": "https://github.com/Sameer-mishra1/Dbait-website#readme"
+}
