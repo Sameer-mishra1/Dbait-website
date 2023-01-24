@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Sameer-mishra1/Dbait-website/issues"
   },
-  "homepage": "https://github.com/Sameer-mishra1/Dbait-website#readme"
+  "homepage": "https://github.com/Sameer-mishra1/Dbait-website#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
